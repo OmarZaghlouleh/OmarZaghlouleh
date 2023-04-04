@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on ExpenseEase (Budgeting App).
 - 🌱 I’m currently learning advanced Flutter & Laravel.
 - 👯 I’m looking to collaborate on Flutter projects.
-- 📫 How to reach me: # LinkedIn: [Omar Zaghlouleh](linkedin.com/in/omar-zaghlouleh-3275a1211/)
+- 📫 How to reach me:
+  - LinkedIn: [Omar Zaghlouleh](linkedin.com/in/omar-zaghlouleh-3275a1211)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarZaghlouleh&show_icons=true&theme=radical)
