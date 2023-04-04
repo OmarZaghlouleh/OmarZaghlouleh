@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Omar 👋
 
 - 🔭 I’m currently working on ExpenseEase (Budgeting App).
 - 🌱 I’m currently learning advanced Flutter & Laravel.
