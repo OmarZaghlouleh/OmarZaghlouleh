@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Flutter projects.
 - 📫 How to reach me:
    -  [LinkedIn](https://www.linkedin.com/in/omar-zaghlouleh-3275a1211/) 
+   -  [Telegram](https://t.me/OmarZaghlouleh) 
  
 
 
