@@ -15,7 +15,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/OmarZa) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/OmarZaghlouleh/)
 
    
-
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarZaghlouleh&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarZaghlouleh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
