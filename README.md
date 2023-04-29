@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Laravel & Advanced Flutter.
 - 👯 I’m looking to collaborate on Flutter projects.
 - 📫 How to reach me:
-   -  [LinkedIn](https://www.linkedin.com/in/omar-zaghlouleh-3275a1211/) 
+   -  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
    -  [Telegram](https://t.me/OmarZaghlouleh) 
  
 
